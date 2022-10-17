@@ -1,0 +1,10 @@
+## Interface: 30400
+## Title: LockoutTracker
+## Notes: Tracks Lockouts of Heroics, # of available Emblems of Heroism remaining, total # of Emblems + Stone Shards.
+## Author: Yew - Skyfury
+## DefaultState: enabled
+## SavedVariables: xOfs, yOfs, point, relativePoint
+## Version: 0.0.1
+
+Core.lua
+Templates.xml
